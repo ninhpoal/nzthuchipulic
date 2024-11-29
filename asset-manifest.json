@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NZLTDTHUCHI/static/css/main.95f46c19.css",
+    "main.js": "/NZLTDTHUCHI/static/js/main.d1b036f9.js",
+    "index.html": "/NZLTDTHUCHI/index.html",
+    "main.95f46c19.css.map": "/NZLTDTHUCHI/static/css/main.95f46c19.css.map",
+    "main.d1b036f9.js.map": "/NZLTDTHUCHI/static/js/main.d1b036f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95f46c19.css",
+    "static/js/main.d1b036f9.js"
+  ]
+}
