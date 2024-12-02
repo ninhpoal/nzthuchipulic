@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nzthuchipulic/static/css/main.b92df0ed.css",
-    "main.js": "/nzthuchipulic/static/js/main.a5dcecbd.js",
+    "main.js": "/nzthuchipulic/static/js/main.b3ea60a6.js",
     "index.html": "/nzthuchipulic/index.html",
     "main.b92df0ed.css.map": "/nzthuchipulic/static/css/main.b92df0ed.css.map",
-    "main.a5dcecbd.js.map": "/nzthuchipulic/static/js/main.a5dcecbd.js.map"
+    "main.b3ea60a6.js.map": "/nzthuchipulic/static/js/main.b3ea60a6.js.map"
   },
   "entrypoints": [
     "static/css/main.b92df0ed.css",
-    "static/js/main.a5dcecbd.js"
+    "static/js/main.b3ea60a6.js"
   ]
 }
